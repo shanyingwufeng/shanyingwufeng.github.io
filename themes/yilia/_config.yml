@@ -2,13 +2,13 @@
 
 menu:
   主页: /
-  随笔: /tags/随笔/
+  #随笔: /tags/随笔/
 
 # SubNav
 subnav:
-  github: "#"
+  github: "https://www.github.com/shanyingwufeng"
   #weibo: "#"
-  rss: "#"
+  #rss: "#"
   #zhihu: "#"
   #qq: "#"
   #weixin: "#"
