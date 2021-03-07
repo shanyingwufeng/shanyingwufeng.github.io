@@ -62,8 +62,6 @@ javac
 java -version
 ```
 
-
-
 # 安装配置 Tomcat
 
 1、下载 Tomcat，选择 Tomcat8，下载地址为：

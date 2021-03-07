@@ -56,10 +56,10 @@ top: true
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: ''
-favicon: https://www.hualigs.cn/image/600e7ede4faa5.jpg
+favicon: hhttps://cdn.jsdelivr.net/gh/shanyingwufeng/uPic@main/uPic_MBA/狗狗4.png
 
 #你的头像url
-avatar: https://www.hualigs.cn/image/600e7ef4e15e4.jpg
+avatar: https://cdn.jsdelivr.net/gh/shanyingwufeng/uPic@main/uPic_MBA/狗狗5.ico
 
 #是否开启分享
 share_jia: true
