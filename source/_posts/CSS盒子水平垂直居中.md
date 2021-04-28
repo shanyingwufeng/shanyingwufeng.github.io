@@ -1,5 +1,5 @@
 ---
-title: CSS盒子水平垂直居中方式
+title: CSS盒子水平垂直居中
 date: 2021-04-28 11:23:11
 categories:
 - 前端
