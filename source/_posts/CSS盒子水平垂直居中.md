@@ -9,9 +9,9 @@ tags:
 
 # 四种方式
 
-第一种：采用绝对定位后使用margin-top和margin-left（已知盒子宽高）
+第一种：采用绝对定位，使用margin-top: 负的盒子一般高度和margin-left: 负的盒子一半宽度（已知盒子宽高）
 
-第二种：采用绝对定位使用transform平移方式
+第二种：采用绝对定位，使用transform平移方式
 
 第三种：采用绝对定位，上下左右为0，margin: auto
 
