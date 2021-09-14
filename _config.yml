@@ -107,7 +107,7 @@ deploy:
   repo:
     github: git@github.com:shanyingwufeng/shanyingwufeng.github.io.git
     # aliyun: git@121.40.61.216:/home/git/repos/blog.git
-  branch: main
+  branch: master
 
 jsonContent:
     meta: false
