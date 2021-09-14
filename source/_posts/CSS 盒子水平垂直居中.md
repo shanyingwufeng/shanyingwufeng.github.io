@@ -1,5 +1,5 @@
 ---
-title: CSS盒子水平垂直居中
+title: CSS 盒子水平垂直居中
 date: 2021-04-28 11:23:11
 categories:
 - 前端
@@ -9,13 +9,13 @@ tags:
 
 # 四种方式
 
-第一种：采用绝对定位，使用margin-top和margin-left（已知盒子宽高）
+第一种：采用绝对定位，使用 margin-top 和 margin-left（已知盒子宽高）
 
-第二种：采用绝对定位，使用transform平移方式
+第二种：采用绝对定位，使用 transform 平移方式
 
 第三种：采用绝对定位，上下左右为0，margin: auto
 
-第四种：采用flex布局，设置justify-content: center和align-items: center
+第四种：采用 flex 布局，设置 justify-content: center 和 align-items: center
 
 <!-- more -->
 
